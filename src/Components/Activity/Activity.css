@@ -1,0 +1,9 @@
+.activity__row ul {
+  margin: 20px;
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+}
+.activity__row li {
+  color: #9eb0bf;
+}

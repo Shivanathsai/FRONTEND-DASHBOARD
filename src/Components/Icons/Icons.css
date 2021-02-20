@@ -1,0 +1,12 @@
+.app__header-icons {
+  width: 15%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.app__header-icon {
+  background-color: white;
+  padding: 10px;
+  border-radius: 70px;
+}
